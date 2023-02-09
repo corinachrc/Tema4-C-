@@ -1,0 +1,16 @@
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.exe
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.deps.json
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.runtimeconfig.json
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.runtimeconfig.dev.json
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.dll
+C:\Facultate\C#\Tema4\Tema4\bin\Debug\net5.0\Tema4.pdb
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.csproj.AssemblyReference.cache
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.AssemblyInfoInputs.cache
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.AssemblyInfo.cs
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.csproj.CoreCompileInputs.cache
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.dll
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\refint\Tema4.dll
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.pdb
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\Tema4.genruntimeconfig.cache
+C:\Facultate\C#\Tema4\Tema4\obj\Debug\net5.0\ref\Tema4.dll
